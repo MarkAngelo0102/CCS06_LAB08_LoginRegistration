@@ -1,0 +1,17 @@
+{
+    "name": "Mark Angelo P. Tongol/ccs06-login-registration",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mark Tongol",
+            "email": "tongol.markangelo@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
